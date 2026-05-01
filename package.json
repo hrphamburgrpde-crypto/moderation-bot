@@ -1,0 +1,23 @@
+{
+  "name": "moderation-bot",
+  "version": "1.0.0",
+  "description": "Discord Moderation Bot",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^16.0.0",
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DEIN_REPO_LINK"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}

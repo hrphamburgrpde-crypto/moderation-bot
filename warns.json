@@ -1,0 +1,15 @@
+{
+  "GUILD_ID_1": {
+    "USER_ID_1": [
+      {
+        "id": "123456",
+        "reason": "Spam",
+        "moderator": "Admin#1234",
+        "date": "2025-01-01"
+      }
+    ]
+  },
+  "GUILD_ID_2": {
+    "USER_ID_2": [...]
+  }
+}
